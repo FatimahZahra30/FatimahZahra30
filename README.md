@@ -29,4 +29,5 @@ Python · Java · JavaScript · TypeScript · C · SQL · Vue.js · React Native
 
 ## Links
 
-[LinkedIn](https://www.linkedin.com/in/fatimah-zahra-18a0b1344/) · [GitHub](https://github.com/FatimahZahra30) · [Email](mailto:fatimah30zahra@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/fatimah-zahra-18a0b1344/) · [GitHub](https://github.com/FatimahZahra30) · [Email](mailto:fatimah30zahra@gmail.com) · [Portfolio](https://zahra-inky.vercel.app/) 
+
